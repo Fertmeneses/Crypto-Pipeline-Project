@@ -1,6 +1,11 @@
 # Crypto Pipeline Project <a id="top"></a>
 
-This project is a comprehensive implementation of a full pipeline to first extract, load and transform (ETL) cryptocurrency information from the CoinGecko API, followed by data analysis and Machine Learning models to predict the price of cryptocurrency in the future.
+<div style="display: flex; align-items: center; gap: 10px;">
+  <p>This project is a comprehensive implementation of a full pipeline to first extract, load and transform (ETL) cryptocurrency information from the CoinGecko API, followed by data analysis and Machine Learning models to predict the price of cryptocurrency in the future.</p>
+  <img src="assets/00_Project_Logo.png" alt="Logo image" width="20%" />
+</div> 
+
+
 
 ## Table of contents <a id="toc"></a>
 
