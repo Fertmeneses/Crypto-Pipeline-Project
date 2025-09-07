@@ -42,7 +42,7 @@
 
 This project is about designing a whole **pipeline for processing cryptocurrency information and make predictions in the future**. 
 
-Across 4 different stages, I have managed the various stages of the process, starting by the **Extract, Transform and Load (ETL)** process, then I have performed **data analysis and engineering**, and finally built **Machine Learning (ML) models** that can predict the price of cryptocurrency 1 day ahead, based on the previous 7 days activity and other features. 
+Across 4 different stages, I have managed the various steps of the full process, starting by the **Extract, Transform and Load (ETL)** process, then I have performed **data analysis and engineering**, and finally built **Machine Learning (ML) models** that can predict the price of cryptocurrency 1 day ahead, based on the previous 7 days activity and other features. 
 
 The entire workflow has been divided in 4 stages or tasks:
 
