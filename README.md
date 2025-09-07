@@ -1,3 +1,5 @@
+<a href="https://fertmeneses.github.io/" target="_blank"> <img src="assets/website_icon_FM.jpg" alt="Logo FM" style="width: 3%;" /> </a> <a href="https://fertmeneses.github.io/" target="_blank"> Go to Home Page </a> 
+
 # Crypto Pipeline Project <a id="top"></a>
 
 <div style="display: flex; align-items: center; gap: 10px;">
