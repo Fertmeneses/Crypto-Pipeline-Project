@@ -3,5 +3,5 @@ email: fertmeneses@gmail.com
 logo: assets/00_Project_Logo.png
 description:  A comprehensive implementation of a full pipeline to first extract, load and transform (ETL) cryptocurrency information from the CoinGecko API, followed by data analysis and Machine Learning models to predict the price of cryptocurrency in the future. By Fernando Meneses.
 show_downloads: True
-#google_analytics: G-HHCL9E8VP6
+google_analytics: G-MHECD535SN
 theme: jekyll-theme-hacker
